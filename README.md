@@ -1,7 +1,7 @@
 #### Hi 👋, I'm Dicky Aditya. 
 ##### Saya Mahasiswa Teknik Informatika.
 
-💻Saat ini saya sedang mengajar pemrograman mobile:
+💻Saat ini saya sedang belajar pemrograman mobile:
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
