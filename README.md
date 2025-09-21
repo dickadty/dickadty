@@ -4,7 +4,7 @@
 💻Saat ini saya sedang belajar pemrograman mobile:
 
 | No  | Minggu ke | Topik  | Laporan | Repository |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
+| ------------ | ------------ | ------------ | ------------ | ------------ |
 |  1 | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 01") | [Source Code](https://github.com/dickadty/modul1-mobile "Repository") |
 |  2 | 01  | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 02")| [Source Code](https://github.com/dickadty/modul2-mobile "Repository") |
 |  3 | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://docs.google.com/document/d/1xG5zvKOgwrAXow-jxBnv22rApHQjhqTO/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 03")| [Source Code](https://github.com/dickadty/modul3-mobile "Repository") |
