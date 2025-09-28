@@ -11,7 +11,7 @@
 |  4 | 4  | Widget Flexible dan Expanded  | [Modul 4](https://docs.google.com/document/d/11raVMCJFUIHBD0Df23qXv1r68YZ6I8C1/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 04")| [Source Code](https://github.com/dickadty/modul4-mobile "Repository") |
 |  5 | 5  | Widget SizedBox, Spacer, dan Card | [Modul 5](https://docs.google.com/document/d/1QASdpT6gGDft_BWNlx_1Y4iTXQ7GsmPk/edit "Modul 04")| [Source Code](https://github.com/dickadty/modul1-mobile "Repository") |
 |  6 | 6 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](https://docs.google.com/document/d/1j8j5wVyMXLeLtnSF74SYOa3dAqPa4Xtu/edit "Modul 06")| [Source Code](https://github.com/dickadty/modul6-mobile "Repository") |
-|  7 | 7 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 6](https://docs.google.com/document/d/1j8j5wVyMXLeLtnSF74SYOa3dAqPa4Xtu/edit "Modul 07")| [Source Code](https://github.com/dickadty/modul7-mobile "Repository") |
-|  8 | 8 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 6](https://docs.google.com/document/d/1j8j5wVyMXLeLtnSF74SYOa3dAqPa4Xtu/edit "Modul 08")| [Source Code](https://github.com/dickadty/modul8-mobile "Repository") |
+|  7 | 7 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 7](https://docs.google.com/document/d/1ExaRt2pmO1AXdd6Nwo75Mg9bUMnXDibL/edit "Modul 07")| [Source Code](https://github.com/dickadty/modul7-mobile "Repository") |
+|  8 | 8 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](https://docs.google.com/document/d/1FzKULRv4WDJ8fGEO2ohCc7zm1jqMw81i/edit "Modul 08")| [Source Code](https://github.com/dickadty/modul8-mobile "Repository") |
 
 
