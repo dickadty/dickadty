@@ -15,5 +15,6 @@
 |  8 | 8 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](https://docs.google.com/document/d/1FzKULRv4WDJ8fGEO2ohCc7zm1jqMw81i/edit "Modul 08")| [Source Code](https://github.com/dickadty/modul8-mobile "Repository") |
 |  9 | 9 | Stateful Widget | [Modul 9](https://docs.google.com/document/d/1crWmk3glPNUnBs5ItmYffbx85bcWSqXZ/edit?rtpof=true&tab=t.0 "Modul 09")| [Source Code](https://github.com/dickadty/modul9-mobile "Repository") |
 |  10 | 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/1FUGG5Ahwl-KODgX2wikoFrkhd7YIx9c-/edit "Modul 10")| [Source Code](https://github.com/dickadty/modul10-mobile "Repository") |
+|  11 | 11 | 	Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1CF-siZ1RIbC-1ques3f3rAQF7KdsT7xr/edit "Modul 11")| [Source Code](https://github.com/dickadty/modul11-mobile "Repository") |
 
 
