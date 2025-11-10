@@ -17,4 +17,4 @@
 | 10 | 10 | Desain GUI, Navigasi, dan Integrasi API + JSON Serialization | [Modul 10](https://docs.google.com/document/d/1FUGG5Ahwl-KODgX2wikoFrkhd7YIx9c-/edit) | [Source Code](https://github.com/dickadty/modul10-mobile) |
 | 11 | 11 | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1CF-siZ1RIbC-1ques3f3rAQF7KdsT7xr/edit) | [Source Code](https://github.com/dickadty/modul11-mobile) |
 | 12 | UTS | Ujian Tengah Semester (Tugas & Implementasi) | [Modul UTS](https://drive.google.com/drive/folders/1-vUiYsDoZFu_2v23rrintDjCTpmUSGVr) | [Source Code](https://github.com/dickadty/crypto-mobile) |
-| 13 | 12 | Pengambilan Lokasi GPS, Geolocator & Geocoding | [Modul 12](https://docs.google.com/) | [Source Code](https://github.com/dickadty/modul12-mobile) |
+| 13 | 12 | Pengambilan Lokasi GPS, Geolocator & Geocoding | [Modul 12](https://docs.google.com/document/d/1i1Vku4Hi1uFHbl0_keLGfwb2yWST2XgN/edit) | [Source Code](https://github.com/dickadty/modul12-mobile) |
